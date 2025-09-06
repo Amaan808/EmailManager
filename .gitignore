@@ -1,0 +1,5 @@
+﻿# Creating .gitignore
+ai-communication-assistant/
+node_modules/
+*.log
+*.env
